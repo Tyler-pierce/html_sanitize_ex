@@ -39,7 +39,7 @@ defmodule HtmlSanitizeEx.Mixfile do
   # Type `mix help deps` for more examples and options
   defp deps do
     [
-      {:mochiweb, "~> 2.15"}
+      {:mochiweb, "~> 2.20"}
     ]
   end
 end
